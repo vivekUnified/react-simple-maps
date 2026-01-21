@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/bundlephobia/minzip/react-simple-maps?color=%2328cb95&label=gzip" />
+<img src="https://img.shields.io/bundlephobia/minzip/react-simple-maps-v3?color=%2328cb95&label=gzip" />
 
-# react-simple-maps
+# react-simple-maps-v3
 
 Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.
 
@@ -14,16 +14,16 @@ Since `react-simple-maps` leaves DOM work to react, it can also easily be used w
 
 ### Install
 
-To install `react-simple-maps`
+To install `react-simple-maps-v3`
 
 ```bash
-$ npm install react-simple-maps
+$ npm install react-simple-maps-v3
 ```
 
 ...or if you use yarn:
 
 ```bash
-$ yarn add react-simple-maps
+$ yarn add react-simple-maps-v3
 ```
 
 ### Usage
